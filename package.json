@@ -1,0 +1,23 @@
+{
+  "name": "api-latency",
+  "version": "1.0.0",
+  "description": "Latency monitor for Atlassian StatusPage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyra-io/API-Latency.git"
+  },
+  "author": "Hyra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyra-io/API-Latency/issues"
+  },
+  "homepage": "https://github.com/hyra-io/API-Latency#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0"
+  }
+}
